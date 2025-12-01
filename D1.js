@@ -80,18 +80,19 @@ console.log("valore di x dopo:" + x); */
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-let name1 = "john";
+/* let name1 = "john";
 let name2 = "John";
 if (name1 === name2) {
   console.log("the names match");
 } else {
   console.log("the names don't match");
 }
-
+*/
 /* converts second name to lower case */
+/*
 let lowerCaseName2 = name2.toLowerCase();
 if (name1 === lowerCaseName2) {
   console.log("the names match");
 } else {
   console.log("the names don't match");
-}
+} */
